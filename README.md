@@ -1,21 +1,169 @@
-# 💫 About Me:
-I am a BTECH 2nd Year Medical Engineering student with a strong interest in integrating Artificial Intelligence (AI) and Machine Learning (ML) into healthcare technologies. I enjoy working on hardware projects like Arduino and Raspberry Pi, where I experiment with sensors and microcontrollers to build small prototypes that simulate medical devices.<br><br>Interests<br>AI-driven healthcare solutions (diagnostics, monitoring, prediction).<br><br>Machine learning applications in medical imaging and patient care.<br><br>Hardware prototyping with Arduino and Raspberry Pi.<br><br>Biomedical instrumentation and rehabilitation technologies.<br><br>Solving real-world problems through innovative engineering solutions.<br><br>Skills<br>Programming: Python, C, HTML, CSS, JavaScript<br><br>AI/ML Tools: TensorFlow, Scikit-learn, PyTorch (beginner level)<br><br>Hardware: Arduino, Raspberry Pi, basic electronics<br><br>Software: MATLAB, GitHub<br><br>Vision<br>I believe engineering should improve lives. My goal is to design affordable, accessible, and innovative healthcare solutions that bridge the gap between medical engineering theory and practical application.<br><br>Current Projects<br>Smart Health Monitor: Arduino-based system for tracking vital signs.<br><br>AI-Powered Diagnosis: Exploring ML models for early disease detection.<br><br>Biomedical Device Prototyping: Building small hardware projects to simulate medical equipment.<br><br>Future Goals<br>Collaborate on interdisciplinary projects combining medicine, engineering, and AI.<br><br>Contribute to open-source healthcare innovations.<br><br>Develop scalable solutions for global healthcare challenges.
+# 🏥 Personalized Healthcare Dashboard (MTE Health Portal)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-v5.x-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-v19.x-blue?logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-v7.x-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
+[![Express](https://img.shields.io/badge/Express-v5.x-lightgrey?logo=express&logoColor=white)](https://expressjs.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4.x-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aneeshvojjala/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aneesh-vojjala/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeshvojjala@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=flat&logo=sidequest&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aneesh2507&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aneesh2507&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneesh2507&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+An advanced, interactive, and personalized digital health portal integrating tailored patient tracking and clinical management capabilities. Designed to bridge the gap between healthcare data and active patient care, this dashboard offers highly specialized interfaces for both **Patients** and **Healthcare Practitioners (Doctors)**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aneesh2507&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 Key Features
+
+### 👤 Patient Dashboard
+* **📊 Holistic Health Scoring:** Visually engaging interface showing current daily metrics, health scores, and progress trackers.
+* **🩺 Real-Time Vitals Tracking:** Dynamic charts powered by Recharts visualizing blood pressure, blood glucose, heart rate, oxygen levels, and temperature history.
+* **💊 Intelligent Medications Management:** Log daily medication intake, monitor dosage amounts, schedule frequencies, refill statuses, and view prescribing physician logs.
+* **🔬 Lab Results Center:** Download, inspect, and track critical medical laboratory findings (e.g., blood work, lipids) complete with automated diagnostic range and status tags.
+* **📅 Interactive Checkup Booking & Scheduling:** Book medical appointments, view scheduled sessions, and handle cancellations with logged reason fields.
+* **🏃‍♂️ Activity & Workout Logging:** Dedicated `/activity` tracking step goals, active calorie burns, and exercise minutes.
+* **🥗 Nutritional & Diet Planner:** Detailed `/diet` logging calorie target progress, active tracking, water intake, and customized macronutrient balances.
+* **🤖 Personal AI Health Insights:** Algorithmic-based feedback, wellness tips, and warnings tailored specifically to logged vitals and history.
+
+### ⚕️ Doctor Dashboard
+* **📋 Patient Directory ("My Patients"):** Interactive view listing all registered patients with statuses (Active, Completed, Scheduled) and detailed clinical summaries.
+* **🔍 Complete Medical Records Review:** Gain full visibility into a patient's historical diagnoses, vitals, active prescriptions, and past clinic visits.
+* **💬 Clinical Communication:** Secure, interactive messaging channel directly with individual patients for remote assessments, prescription updates, and advice.
+
+### ✉️ Real-Time Alerts & Integration
+* **📧 Automated Nodemailer Communications:** Instantly dispatches beautifully stylized email receipts upon logins or critical changes (e.g., medical registrations and schedule adjustments).
+* **📝 Detailed Delivery Auditing:** Full local logging file (`server/email_delivery.log`) tracks all outgoing communications, timestamp records, error logs, and delivery status checks.
+
+---
+
+## 🛠️ Tech Stack & Architecture
+
+This repository contains a full-stack JavaScript/TypeScript application configured for rapid scaling, rich client state, and secure local management:
+
+### Frontend
+* **UI/Framework:** React 19 (TypeScript), Tailwind CSS (v4) with custom tailwind-animate components.
+* **Routing:** React Router DOM v6.
+* **Data Fetching:** TanStack React Query (v5) providing seamless asynchronous cache operations.
+* **Charts/Visuals:** Recharts & Framer Motion for high-fidelity animations.
+* **Theme Support:** Tailwind Dark Mode with instant theme toggling.
+
+### Backend
+* **API/Server:** Express.js 5.x.
+* **Database/ORM:** Drizzle ORM connecting to PostgreSQL database structures (`shared/schema.ts`).
+* **Authentication:** Passport.js (Local Strategy) managing credential encryption and persistent sessions.
+* **Utilities:** Nodemailer for automated diagnostic logging and client communications.
+
+---
+
+## 📁 Repository Structure
+
+```
+├── client/                     # Frontend Application (React, Tailwind, Vite)
+│   ├── public/                 # Static Assets (favicon, icons, portal logos)
+│   ├── src/
+│   │   ├── components/         # Reusable UI Blocks (Shadcn primitives, charts, layouts)
+│   │   ├── hooks/              # Custom React Hooks (toasts, utilities)
+│   │   ├── lib/                # API helpers, state/data controllers (localApi.ts)
+│   │   ├── pages/              # Portal Layouts (Dashboard, Diet, Activity, LabResults, etc.)
+│   │   ├── App.tsx             # Global Route Mapping
+│   │   └── main.tsx            # Frontend Entry Point
+│   └── index.html
+├── server/                     # Backend API & Express Architecture
+│   ├── index.ts                # Express Main Server Entry point
+│   ├── routes.ts               # Core API Endpoints (Emailing, Auditing, Messaging)
+│   ├── static.ts               # SPA Routing Static Deliveries
+│   ├── storage.ts              # Data Store Controllers
+│   └── vite.ts                 # Dev HMR Server Handlers
+├── shared/
+│   └── schema.ts               # Drizzle PostgreSQL Database Schemas
+├── types/                      # Common TypeScript definitions
+├── package.json                # Project Node.js Manifest
+└── README.md                   # Project Documentation
+```
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to configure your environment and run the dashboard locally.
+
+### 📋 Prerequisites
+* **Node.js** (v18.x or above recommended)
+* **npm** or **Yarn**
+
+### ⚙️ Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Aneesh2507/Personalized-Healthcare-Dashboard.git
+   cd Personalized-Healthcare-Dashboard
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Configure Environment Variables:**
+   Create a `.env` file in the root directory (or use environment configurations) to set up your mailer and session configuration:
+   ```env
+   # SMTP Server details for Automated Email Deliveries (Nodemailer)
+   SMTP_HOST=your-smtp-host
+   SMTP_PORT=587
+   SMTP_USER=your-email@example.com
+   SMTP_PASS=your-secure-password
+
+   # Session Secret for Passport.js User Sessions
+   SESSION_SECRET=your-random-session-secret-key
+
+   # Database Connection String
+   DATABASE_URL=postgresql://user:password@localhost:5432/healthcare_db
+   ```
+
+### 💻 Running the Application
+
+* **Development Mode:**
+  Runs the client (Vite) and server (Express) concurrently with hot-reloading support:
+  ```bash
+  npm run dev
+  ```
+  *The app will automatically start on `http://localhost:5000`.*
+
+* **Database Push (Drizzle):**
+  If you have configured PostgreSQL and want to push the table structure defined in `shared/schema.ts`:
+  ```bash
+  npm run db:push
+  ```
+
+* **Production Build:**
+  Compiles the TypeScript frontend and backend for production deployment:
+  ```bash
+  npm run build
+  npm start
+  ```
+
+---
+
+## 🔬 Interactive Workflows
+
+### 🤝 Authentication & Role Selection
+* Navigate to the `/login` page.
+* You can sign up as a **Patient** or a **Doctor**.
+* Validation rules verify valid email structures, robust passwords, and standard mobile inputs.
+* Logging in triggers a transactional confirmation email with full credentials details.
+
+### 📈 Clinical Updates (Doctor to Patient)
+1. Log in with a **Doctor** profile.
+2. Select a patient from **My Patients**.
+3. Inspect historical vitals, review active lab panels, or send targeted advisory messages.
+4. Log back in as the **Patient** to view updated diagnostic summaries, updated medication plans, or clinical notes in real time.
+
+---
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` or the badge at the top for more information.
+
+---
+
+## 👥 Contributors
+
+* **Aneesh Vojjala** ([GitHub Profile](https://github.com/Aneesh2507)) - Medical Engineering & AI Solutions Developer.
